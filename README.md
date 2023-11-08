@@ -151,7 +151,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ```
 ## Output  :
- ![image](https://github.com/BharathCSEIOT/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/122793480/550f28d1-986a-46bb-bd9b-ea56a660d19f)![image](https://github.com/BharathCSEIOT/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/122793480/5972461e-f5f4-480a-ad74-a7857729699f)
+ <img height=40% width=50% src="https://github.com/BharathCSEIOT/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/122793480/550f28d1-986a-46bb-bd9b-ea56a660d19f">
+<img height=40% width=50% src="https://github.com/BharathCSEIOT/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/122793480/5972461e-f5f4-480a-ad74-a7857729699f">
 
 
  
